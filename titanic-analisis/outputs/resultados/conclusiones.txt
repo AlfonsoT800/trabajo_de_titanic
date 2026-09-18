@@ -1,0 +1,9 @@
+- Del total de pasajeros, sobrevivió aproximadamente el 38.4%.
+- Las mujeres tuvieron una tasa de supervivencia mucho más alta que los hombres
+  (74.2% vs 18.9%).
+- La clase del pasajero influyó claramente: los pasajeros de primera clase
+  sobrevivieron en mayor proporción que los de segunda y tercera.
+- Los niños tuvieron una tasa de supervivencia más alta que los adultos,
+  lo que coincide con la idea de que se priorizó a los pasajeros más jóvenes.
+- Viajar acompañado (en familias pequeñas) se asoció con una mayor
+  supervivencia que viajar completamente solo.
